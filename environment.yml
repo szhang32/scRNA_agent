@@ -1,0 +1,11 @@
+name: scrna_agent
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - openai
+  - scanpy
+  - anndata
+  - numpy
+  - pandas
+  - scipy
